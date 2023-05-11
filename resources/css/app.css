@@ -1,0 +1,9 @@
+@import "animate.css/animate.min.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dropzone .dz-preview.dz-image-preview {
+    background-color: #171212;
+}
